@@ -1,2 +1,2 @@
 # Movies Sentiment Analysis 
-### Natrual language processing
+### Natural language processing
